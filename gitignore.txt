@@ -1,6 +1,0 @@
-__pycache__/
-venv/
-*.xlsx
-*.xls
-*.csv
-.DS_Store
